@@ -23,8 +23,8 @@ Python 3.8.2 (default, Jun  8 2021, 11:59:35)
 Type "help", "copyright", "credits" or "license" for more information.
 >>> pint beer
 ```
-4. I also like to get link back to myself
-5. or another [file](README.md)
+1. I also like to get link back to [myself](#other-things)
+2. or another [file](README.md)
 
 ### You've probably seen my other achievements, including ordered and unordered lists, but check this out:
 - [x] tusks!
